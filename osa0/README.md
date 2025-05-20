@@ -1,1 +1,1 @@
-osan 0 tehtävien vastaukset
+osan 0 tehtävien vastaukset tähän tiedostoon
